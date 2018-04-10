@@ -420,5 +420,4 @@ runGame(schemas, parser, DOMDisplay)
 /*	loadLevels()
   .then(schema => runGame(JSON.parse(schema), parser, DOMDisplay))
   .then(() => alert('Вы выиграли приз!'))
-  .catch(error => alert(error));*/  
-  
+  .catch(error => alert(error));*/
